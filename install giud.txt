@@ -1,0 +1,16 @@
+https://youtu.be/fPuLnzSjPLE?si=i7w3yx5ig5PaNu8P
+================Back end=======================
+npm init -y Node apllicaion
+npm install mysql express
+npm install express mysql nodemon  (nodemon is basicaly hot reload)
+
+express -> frame work node.js
+
+npm i cors (cors for allow to  backend to communicate to frontend)
+
+==========================frontend===========
+npx create-react-app frontend
+
+npm i axios  (backend Api fetch conection)(API rquest)
+
+use stae hooks learn lama Dev yt 
